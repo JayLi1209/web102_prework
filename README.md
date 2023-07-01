@@ -4,7 +4,7 @@ Submitted by: Yuanhe Li
 
 RankMyGames is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 4.5 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
@@ -17,24 +17,19 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* N/A
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="prework_recording.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap.  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wasn't familiar with manipulating DOM element before this project. I went through the tutorial, and the design process turns out to be surprisingly smooth. I love how powerful DOM elements and Javascript library functions are!
 
 ## License
 
